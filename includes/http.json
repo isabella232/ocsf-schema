@@ -6,10 +6,12 @@
       "group": "primary"
     },
     "http_request": {
-      "requirement": "required"
+      "requirement": "required",
+      "group": "primary"
     },
     "http_response": {
-      "requirement": "required"
+      "requirement": "required",
+      "group": "primary"
     }
   }
 }
